@@ -66,10 +66,13 @@ function App() {
         <NavBar/>
         <div className={classes.wrapper}>
           <Typography variant="h4" className={classes.bigSpace} color="primary">
-             At Rocket.io we are passionate about software
+             I Muhammad Maarig am a passionate about web development and currently trying to learn MERN Stack.
           </Typography>
           <Typography variant="h5" className={classes.littleSpace} color="primary">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sodales congue tristique. Cras non pretium sem. Duis interdum lorem sit amet ligula pretium, sed rutrum urna semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus egestas gravida ullamcorper.
+            Instead of using dummy content, I'd rather explain that this is a template precisely followed through tutorials already available over the internet.
+            Hence building this is never a big deal for most guys out there, but a huge step for me as I was going through lots of error handling and debugging.
+            But thanks to the web development community and FAQs over the internet, it helped a lot.
+            Thanks.
           </Typography>
         </div>
         <div className={`${classes.grid} ${classes.bigSpace}`}>
